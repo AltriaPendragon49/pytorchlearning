@@ -1,0 +1,4 @@
+Parameter containing:
+tensor([[ 1.9538, -0.3796]], requires_grad=True) Parameter containing:
+tensor([0.4110], requires_grad=True)
+tensor([193.8000], grad_fn=<AddBackward0>)
